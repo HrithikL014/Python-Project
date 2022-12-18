@@ -1,4 +1,4 @@
 #LAB ACTIVITIES OF PYTHON
 
-HrithikL014_Python-Project
+HrithikL014_Python
 
